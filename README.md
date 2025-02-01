@@ -1,16 +1,16 @@
 # aviz_app
 
-A new Flutter project.
+Aviz application is built with Flutter and is not intended for public release.
 
-## Getting Started
+Buy & Sell Easily with Aviz
 
-This project is a starting point for a Flutter application.
+Find everything you need or post your own ads on Aviz With this app, buying and selling goods, properties, vehicles, services, and job opportunities has never been easier.
 
-A few resources to get you started if this is your first Flutter project:
+Key Features:
+✅ Buy and sell new and used items
+✅ Rent or purchase residential and commercial properties
+✅ Trade cars, motorcycles, and spare parts
+✅ Offer and receive various services
+✅ Find and apply for job opportunities
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With Aviz, you can post ads effortlessly and connect with thousands of buyers and sellers—no middlemen involved! Download the app now and enjoy a seamless online marketplace experience!
