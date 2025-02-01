@@ -18,8 +18,5 @@ With Aviz, you can post ads effortlessly and connect with thousands of buyers an
 Here are some screenshots: 
 
 
-![image5](https://github.com/user-attachments/assets/f1d35dcf-d868-49e6-be26-679b7f57e995)
-![image4](https://github.com/user-attachments/assets/6d2dfbdc-6ade-4562-87e3-75f6caca13ab)
-![image3](https://github.com/user-attachments/assets/3af11c18-0767-438a-a8c7-c8d67fc4d80e)
-![image2](https://github.com/user-attachments/assets/9005660f-774b-4fe4-bd47-605d0e9fbcc3)
-![image1](https://github.com/user-attachments/assets/c8981072-0318-4784-93b6-ba8a81fd7cf0)
+
+![Untitled-1](https://github.com/user-attachments/assets/28dec4df-24d6-4051-a5df-3525f84921ed)
